@@ -1,8 +1,5 @@
-# Expected Keyboard [<img src="https://hosted.weblate.org/widget/unexpected-keyboard/svg-badge.svg" alt="État de la traduction" />](https://hosted.weblate.org/engage/unexpected-keyboard/)
-
+# Expected Keyboard
 Fork of lightweight and privacy-conscious virtual keyboard for Android with more customization fuctions.
-
-https://github.com/Julow/Unexpected-Keyboard/assets/2310568/28f8f6fe-ac13-46f3-8c5e-d62443e16d0d
 
 The main feature is that you can type more characters by swiping the keys towards the corners.
 
