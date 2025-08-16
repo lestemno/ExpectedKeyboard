@@ -1,13 +1,6 @@
-# Unexpected Keyboard [<img src="https://hosted.weblate.org/widget/unexpected-keyboard/svg-badge.svg" alt="État de la traduction" />](https://hosted.weblate.org/engage/unexpected-keyboard/)
+# Expected Keyboard [<img src="https://hosted.weblate.org/widget/unexpected-keyboard/svg-badge.svg" alt="État de la traduction" />](https://hosted.weblate.org/engage/unexpected-keyboard/)
 
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/juloo.keyboard2/)
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"
-     alt="Get it on Google Play"
-     height="80">](https://play.google.com/store/apps/details?id=juloo.keyboard2)
-
-Lightweight and privacy-conscious virtual keyboard for Android.
+Fork of lightweight and privacy-conscious virtual keyboard for Android with more customization fuctions.
 
 https://github.com/Julow/Unexpected-Keyboard/assets/2310568/28f8f6fe-ac13-46f3-8c5e-d62443e16d0d
 
@@ -28,11 +21,6 @@ Usage: to apply the symbols located in the corners of each key, slide your finge
 
 Improve the application translations [using Weblate](https://hosted.weblate.org/engage/unexpected-keyboard/).
 
-[<img src="https://hosted.weblate.org/widget/unexpected-keyboard/multi-auto.svg" alt="État de la traduction" />](https://hosted.weblate.org/engage/unexpected-keyboard/)
-
-## Similar apps
-
-* [Calculator++](https://git.bubu1.eu/Bubu/android-calculatorpp) - Calculator with a similar UX, swipe to corners for advanced math symbols and operators.
 
 ## Contributing
 
